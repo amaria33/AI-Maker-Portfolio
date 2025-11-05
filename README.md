@@ -6,7 +6,7 @@ AI Maker Portfolio, includes all my AI tech creations
 <h2>👨‍💻 AI Maker Projects:</h2>
 
 - <b>Chrome Exentions</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/amaria33/osTicket-Prerequisites-and-Installation)
+  - [ResuMatch-Resume Keyword Optimization](https://github.com/amaria33/resumatch))
   - [osTicket: Post-Installation Configuration](https://github.com/amaria33/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/amaria33/osTicket-Ticket-Lifecycle-Examples/tree/main)
 - <b>Microsoft Azure</b>
