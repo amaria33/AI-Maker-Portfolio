@@ -9,7 +9,7 @@ AI Maker Portfolio, includes all my AI tech creations
   - [ResuMatch-Resume Keyword Optimization](https://github.com/amaria33/resumatch))
   - 
 - <b>Chatbots</b>
-  [HR Chatbot](https://github.com/amaria33/hrchatbot))
+  [HR Chatbot]((https://github.com/amaria33/hrchatbot))
 - <b>Webpages</b>
   - 
 - <b>Apps </b>
