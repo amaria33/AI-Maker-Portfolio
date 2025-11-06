@@ -6,10 +6,10 @@ AI Maker Portfolio, includes all my AI tech creations
 <h2>👨‍💻 AI Maker Projects:</h2>
 
 - <b>Chrome Exentions</b>
-  - [ResuMatch-Resume Keyword Optimization](https://github.com/amaria33/resumatch))
+  - [ResuMatch-Resume Keyword Optimization](https://github.com/amaria33/resumatch)
   - 
 - <b>Chatbots</b>
-  -[HR Chatbot](https://github.com/amaria33/hrchatbot))
+  - [HR Chatbot](https://github.com/amaria33/hrchatbot)
 - <b>Webpages</b>
   - 
 - <b>Apps </b>
